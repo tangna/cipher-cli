@@ -29,5 +29,10 @@
   "homepage": "https://github.com/tangna/cipher-cli#readme",
   "devDependencies": {
     "eslint": "^7.13.0"
+  },
+  "dependencies": {
+    "archiver": "^5.0.2",
+    "commander": "^6.2.0",
+    "unzipper": "^0.10.11"
   }
 }

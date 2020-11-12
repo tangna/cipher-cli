@@ -1,0 +1,11 @@
+{
+  "encipherSource": "data/input/test",
+  "encipherDest": "data/encipher",
+  "encipherMode": "perFile",
+  "destDir": "data/decipher/",
+  "decipherSource": "data/encipher/",
+  "decipherDir": "data/decipher/",
+  "password": "123456",
+  "compressLevel": 9,
+  "algorithm": "aes-256-cbc"
+}
