@@ -1,0 +1,33 @@
+{
+  "name": "cipher-cli",
+  "version": "1.0.0",
+  "description": "Cipher command line client for compressing and encrypting folder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tangna/cipher-cli.git"
+  },
+  "keywords": [
+    "compress",
+    "cipher",
+    "encrypt",
+    "decompress",
+    "decipher",
+    "decrypt"
+  ],
+  "bin": {
+    "cipher-cli": "./bin/cipher-cli.js"
+  },
+  "author": "tangna",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tangna/cipher-cli/issues"
+  },
+  "homepage": "https://github.com/tangna/cipher-cli#readme",
+  "devDependencies": {
+    "eslint": "^7.13.0"
+  }
+}
