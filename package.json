@@ -28,7 +28,9 @@
   },
   "homepage": "https://github.com/tangna/cipher-cli#readme",
   "devDependencies": {
-    "eslint": "^7.13.0"
+    "chai": "^4.2.0",
+    "eslint": "^7.13.0",
+    "mocha": "^8.2.1"
   },
   "dependencies": {
     "archiver": "^5.0.2",
