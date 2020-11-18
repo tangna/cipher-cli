@@ -1,6 +1,6 @@
 {
   "name": "cipher-cli",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Cipher command line client for compressing and encrypting folder",
   "main": "index.js",
   "scripts": {
